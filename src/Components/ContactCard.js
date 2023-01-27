@@ -3,7 +3,7 @@ function ContactCard(props) {
     const { id, name, email } = props.contact;
     return (
         <>
-            <div className="item">
+            <div className="item conatctcard">
                 <div className="content">
                     <div className="header">{name}</div>
                     <div>{email}</div>

@@ -15,7 +15,7 @@ function Contactlist(props) {
 
     return (
     <>  
-        <div className=" getpadding">{rendercontactlist}</div>
+        <div className="getpadding">{rendercontactlist}</div>
     </>
   )
 }

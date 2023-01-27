@@ -42,7 +42,7 @@ function App() {
 
   return (
     <>
-      <div className="ui container">
+      <div className="ui container getpadding">
       <Header/>
       <Routes>
       <Route exact path="/" element={<Addcontact Adddata={Adddata}/>} />

@@ -1,56 +1,13 @@
 .color-me {
-    color: rgb(245, 243, 243);
+    color: rgb(226, 243, 102);
     font: bold;
 }
 
-.aboutpage {
-    background-color: rgb(241, 241, 204);
-    padding-left: 260px;
-    padding-top: 100px;
-    padding-right: 260px;
-
-}
-
-.color-nav {
-    background-color: rgb(241, 241, 204);
-    padding: 5px;
-}
-
-.footer {
-    background-color: rgb(241, 241, 204);
-    position: fixed;
-    width: 100%;
-    height: 50px;
-    bottom: 0;
-
-    font-size: 10px;
-}
-
-.homepage-nav {
-    padding: 10px;
-}
-
-.carousel-caption {
-    bottom: -40px;
-    color: black;
-    text-align: left;
-    width: 100%;
-
-}
-
-.carousel-inner {
-    text-align: left;
-    padding-bottom: 80px;
-}
-
-.nav-item {
-    padding: 10px;
-
-}
 
 .navbar-all {
-    background-color: rgb(244, 244, 244);
+   background-color: rgb(220, 221, 223);
 }
+
 
 .press {
     padding-left: 300px;
@@ -58,16 +15,7 @@
     padding-right: 300px;
 }
 
-.gallary {
-    background-color: rgb(204, 227, 249);
-    padding-top: 20px;
-}
 
-.gallary-row {
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-bottom: 10px;
-}
 
 .press-img {
     height: 80px;
@@ -204,7 +152,6 @@ td {
     height: 30px;
 }
 
-
 /* image zoom in-out */
 
 .image-box  {
@@ -217,4 +164,9 @@ td {
 
 .getpadding {
     margin-top: 100px;
+    background-color: rgb(233, 235, 237);
+
+}
+.conatctcard{
+    background-color: rgb(233, 235, 237);
 }
